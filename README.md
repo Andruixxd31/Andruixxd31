@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://devdocs.io/c/">
-        <img src="./images/C.svg" width="48" target="_blank"  height="48" alt="C++" />
+        <img src="./images/C.svg" width="48" target="_blank"  height="48" alt="C" />
       </a>
       <br>C
     </td>
