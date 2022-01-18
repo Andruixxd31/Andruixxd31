@@ -9,6 +9,7 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="center">
+![Andruixxd31's github stats](https://github-readme-stats.vercel.app/api?username=Andruixxd31)
 <img width="45%" src="https://raw.githubusercontent.com/Andruixxd31/github-stats-transparent/output/generated/overview.svg"
      alt="overview"/>
 <img width="45%" src="https://raw.githubusercontent.com/Andruixxd31/github-stats-transparent/output/generated/languages.svg"
