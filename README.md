@@ -8,14 +8,10 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-<p align="center">
-![Andruixxd31's github stats](https://github-readme-stats.vercel.app/api?username=Andruixxd31)
-<img width="45%" src="https://raw.githubusercontent.com/Andruixxd31/github-stats-transparent/output/generated/overview.svg"
-     alt="overview"/>
-<img width="45%" src="https://raw.githubusercontent.com/Andruixxd31/github-stats-transparent/output/generated/languages.svg"
-     alt="languages"/>
-</p>
-
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andruixxd31&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andruixxd31&theme=buefy&layout=compact" />
+</a>
 <br>
 
 <h2 align="left">Favorite Tech</h2>
