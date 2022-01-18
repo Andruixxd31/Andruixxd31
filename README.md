@@ -42,12 +42,6 @@
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="./images/CSharp.svg" width="48" target="_blank"  height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
      <td align="center" width="96">
       <a href="https://devdocs.io/javascript/" >
         <img src="./images/JavaScript.svg" width="48" target="_blank"  height="48" alt="JavaScript" />
@@ -69,10 +63,10 @@
   </tr>
   <tr>
    <td align="center" width="96">
-      <a href="https://aws.amazon.com/">
-        <img src="./images/AWS.png" width="48" target="_blank"  height="48" alt="Golang" />
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img src="./images/CSharp.svg" width="48" target="_blank"  height="48" alt="C#" />
       </a>
-      <br>AWS
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href="https://dev.mysql.com/doc/">
